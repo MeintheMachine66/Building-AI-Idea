@@ -36,4 +36,4 @@ As AI technology advances, RefiChat could expand and be able to answer more comp
 
 ## Acknowledgments
 
-Libraryh3lp is a fantastic messaging platform that I (and many other libraries) use on a regular basis. It is an effective, intuitive library tool. However, I think it could be improved with the use of an AI powered chatbot.
+Libraryh3lp is a fantastic messaging platform that I (and many other librarians) use on a regular basis. It is an effective, intuitive library tool. However, I think it could be improved with the use of an AI powered chatbot.
