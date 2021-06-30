@@ -6,76 +6,34 @@ Copy the template, paste it to your GitHub README and edit! -->
 
 # Project Title
 
-Final project for the Building AI course
+RefiChat
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+a messaging platform (similar to Libraryh3lp) that includes an AI powered chatbot to increase the speed of communication and allow 24/7/365 service to library patrons. 
 
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
-
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
-
+The RefiChat AI powered chatbot would allow limited 24/7/365 service to library patrons, including after hours, during scheduled closings, on holidays, etc. As an academic librarian my personal motivation would be to reach those library patrons we fail to serve during the aforementioned downtimes.
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
-
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
-
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
-
-This is how you create code examples:
-```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
-
-   totPop = sum(pop)
-   totFish = sum(fishers)
-
-   # write your solution here
-
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
-
-main()
-```
-
+RefiChat would be used in educational settings and would be utilized by all library patrons including academic and public librarians, professors, teachers, students, scholars, and researchers.
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+The RefiChat AI powered chatbot would depend on library specific data sources, such as hours of operation, collection locations, classification used (for example, Librarty of congress or Dewey Decimal), etc. I believe Natural Language Processing (NLP) would be the most helpful AI technique to develop the AI powered chatbot.
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+Initially, the RefiChat AI powered chatbot would only be able to answer general questions such as library hours of operation, collection locations (for example, the Folio Collection is on the third floor), etc. and would not be able to answer more complex, in-depth reference queries. 
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+As AI technology advances, RefiChat could expand and be able to answer more complex reference questions and one day become an artificial intelligence–powered academic library reference assistant. 
 
 
 ## Acknowledgments
 
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+Libraryh3lp is a fantastic messaging platform that I (and many other libraries) use on a regular basis. It is an effective, intuitive library tool. However, I think it could be improved with the use of an AI powered chatbot.
