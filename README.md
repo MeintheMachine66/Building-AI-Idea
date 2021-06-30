@@ -23,7 +23,7 @@ RefiChat would be used in educational settings and would be utilized by all libr
 
 ## Data sources and AI methods
 
-The RefiChat AI powered chatbot would depend on library specific data sources, such as hours of operation, collection locations, classification used (for example, Librarty of congress or Dewey Decimal), etc. I believe Natural Language Processing (NLP) would be the most helpful AI technique to develop the AI powered chatbot.
+The RefiChat AI powered chatbot would depend on library specific data sources, such as hours of operation, collection locations, classification used (for example, Librarty of Congress or Dewey Decimal), etc. I believe Natural Language Processing (NLP) would be the most helpful AI technique to develop the AI powered chatbot.
 
 ## Challenges
 
