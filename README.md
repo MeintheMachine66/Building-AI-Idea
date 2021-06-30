@@ -10,7 +10,7 @@ RefiChat
 
 ## Summary
 
-a messaging platform (similar to Libraryh3lp) that includes an AI powered chatbot to increase the speed of communication and allow 24/7/365 service to library patrons. 
+A messaging platform (similar to Libraryh3lp) that includes an AI powered chatbot to increase the speed of communication and allow 24/7/365 service to library patrons. 
 
 
 ## Background
